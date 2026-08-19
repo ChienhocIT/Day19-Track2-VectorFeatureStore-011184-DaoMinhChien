@@ -1,6 +1,6 @@
 # Reflection — Lab 19
 
-**Tên:** VinUni AICB Student
+**Tên:** Đào Minh Chiến (011184)
 **Cohort:** A20 Cohort 2026 - Track 2
 **Path đã chạy:** lite (fastembed + Qdrant in-memory + Feast SQLite)
 
